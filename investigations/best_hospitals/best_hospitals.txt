@@ -1,0 +1,1 @@
+I'm defining the best hospitals as those with the best average star ratings among all hospitals. I'm choosing to use this as a overall measure of wuality, as opposed to the individual questions that only measure one component of hospital care.
